@@ -2,6 +2,23 @@
 
 LucraQuant is a modular, object‑oriented Python backtesting engine that makes it easy to prototype, evaluate, and visualize trading strategies.
 
+## Legal Disclaimer 
+
+Disclaimer
+The LucraQuant software and all accompanying files (collectively, the “Software”) are provided solely for educational and informational purposes. By downloading, installing, or using the Software, you acknowledge and agree that:
+
+As-Is / No Warranty – The Software is supplied “AS IS,” without any express or implied warranty of any kind, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, or that the Software will be error-free or operate without interruption.
+
+Use at Your Own Risk – All decisions made with, or based on, the Software are entirely your responsibility. Trading and investing involve substantial risk, and past performance does not guarantee future results.
+
+Limitation of Liability – In no event shall the authors, contributors, or copyright holders be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, loss of profits, trading losses, or business interruption) arising out of or in connection with the use of the Software, even if advised of the possibility of such damages.
+
+Indemnification – You agree to indemnify, defend, and hold harmless the authors and contributors from and against any and all claims, liabilities, losses, damages, costs, or expenses (including reasonable attorneys’ fees) resulting from your use or misuse of the Software.
+
+Compliance – You are solely responsible for ensuring that your use of the Software complies with all applicable laws, regulations, and exchange or broker rules in your jurisdiction.
+
+By proceeding to download or use the Software, you expressly accept all responsibility and liability for any outcomes that may result.
+
 ## Features
 
 * SMA crossover, mean reversion, pairs trading, and sentiment‑based strategies out of the box  
